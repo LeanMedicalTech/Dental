@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanMediTech.Dental.Domain", "LeanMediTech.Dental.Domain\LeanMediTech.Dental.Domain.csproj", "{70BC9A56-C3C3-4793-A8C2-DBB3A28FB907}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanMediTech.Dental.Data", "LeanMediTech.Dental.Data\LeanMediTech.Dental.Data.csproj", "{9E3A9C4F-A540-4F28-8379-10EE1EE670F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanMediTech.Dental.Core", "LeanMediTech.Dental.Core\LeanMediTech.Dental.Core.csproj", "{38943E40-A9CB-4FE1-8D4D-BE4E7905E4F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanMediTech.Dental.Helpers", "LeanMediTech.Dental.Helpers\LeanMediTech.Dental.Helpers.csproj", "{383294E9-2943-44DF-A3A0-AC6C02881992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanMediTech.Dental.Web.Api", "LeanMediTech.Dental.Web.Api\LeanMediTech.Dental.Web.Api.csproj", "{55EF5C8E-8343-407B-B021-B27FBF23321D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanMediTech.Dental.Web", "LeanMediTech.Dental.Web\LeanMediTech.Dental.Web.csproj", "{CF531139-D80C-4D5F-AB30-E14B6146E5C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70BC9A56-C3C3-4793-A8C2-DBB3A28FB907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BC9A56-C3C3-4793-A8C2-DBB3A28FB907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BC9A56-C3C3-4793-A8C2-DBB3A28FB907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BC9A56-C3C3-4793-A8C2-DBB3A28FB907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E3A9C4F-A540-4F28-8379-10EE1EE670F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3A9C4F-A540-4F28-8379-10EE1EE670F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3A9C4F-A540-4F28-8379-10EE1EE670F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3A9C4F-A540-4F28-8379-10EE1EE670F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38943E40-A9CB-4FE1-8D4D-BE4E7905E4F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38943E40-A9CB-4FE1-8D4D-BE4E7905E4F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38943E40-A9CB-4FE1-8D4D-BE4E7905E4F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38943E40-A9CB-4FE1-8D4D-BE4E7905E4F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{383294E9-2943-44DF-A3A0-AC6C02881992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383294E9-2943-44DF-A3A0-AC6C02881992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383294E9-2943-44DF-A3A0-AC6C02881992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383294E9-2943-44DF-A3A0-AC6C02881992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55EF5C8E-8343-407B-B021-B27FBF23321D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EF5C8E-8343-407B-B021-B27FBF23321D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EF5C8E-8343-407B-B021-B27FBF23321D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EF5C8E-8343-407B-B021-B27FBF23321D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF531139-D80C-4D5F-AB30-E14B6146E5C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF531139-D80C-4D5F-AB30-E14B6146E5C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF531139-D80C-4D5F-AB30-E14B6146E5C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF531139-D80C-4D5F-AB30-E14B6146E5C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
