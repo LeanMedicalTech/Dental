@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CommandDispatcher.cs" />
+    <Compile Include="Commands\CommandSample.cs" />
+    <Compile Include="Commands\CommandSampleHandler.cs" />
     <Compile Include="ICommand.cs" />
     <Compile Include="ICommandDispatcher.cs" />
     <Compile Include="ICommandHandler.cs" />
@@ -52,7 +54,6 @@
     <Compile Include="QueryDispatcher.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Commands\" />
     <Folder Include="Queries\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
