@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LeanMediTech.Dental.Data
+namespace LeanMediTech.Dental.Core
 {
     public class CommandDispatcher : ICommandDispatcher
     {

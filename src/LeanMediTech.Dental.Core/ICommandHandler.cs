@@ -1,4 +1,4 @@
-﻿namespace LeanMediTech.Dental.Data
+﻿namespace LeanMediTech.Dental.Core
 {
     public interface ICommandHandler<in TCommand> where TCommand: ICommand
     {
