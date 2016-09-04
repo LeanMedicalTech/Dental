@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanMediTech.Dental.Core", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanMediTech.Dental.Helpers", "LeanMediTech.Dental.Helpers\LeanMediTech.Dental.Helpers.csproj", "{383294E9-2943-44DF-A3A0-AC6C02881992}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanMediTech.Web", "LeanMediTech.Web\LeanMediTech.Web.csproj", "{67258B2E-D20E-43E2-B910-8AFCC43EB9E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanMediTech.Web.Api", "LeanMediTech.Web.Api\LeanMediTech.Web.Api.csproj", "{7BF288EA-DE17-4C0D-B50F-60513C37ED0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{383294E9-2943-44DF-A3A0-AC6C02881992}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{383294E9-2943-44DF-A3A0-AC6C02881992}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{383294E9-2943-44DF-A3A0-AC6C02881992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67258B2E-D20E-43E2-B910-8AFCC43EB9E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67258B2E-D20E-43E2-B910-8AFCC43EB9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67258B2E-D20E-43E2-B910-8AFCC43EB9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67258B2E-D20E-43E2-B910-8AFCC43EB9E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF288EA-DE17-4C0D-B50F-60513C37ED0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF288EA-DE17-4C0D-B50F-60513C37ED0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF288EA-DE17-4C0D-B50F-60513C37ED0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF288EA-DE17-4C0D-B50F-60513C37ED0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
