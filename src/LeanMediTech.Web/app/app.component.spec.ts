@@ -1,9 +1,9 @@
 /* tslint:disable:no-unused-variable */
 import { AppComponent } from './app.component';
 
-import { TestBed } from '@angular/core/testing';
+import { TestBed }      from '@angular/core/testing';
 
-import { By }             from '@angular/platform-browser';
+import { By }           from '@angular/platform-browser';
 
 ////////  SPECS  /////////////
 
@@ -32,6 +32,6 @@ describe('AppComponent with TCB', function () {
 
         h1 = fixture.debugElement.query(By.css('h1')).nativeElement;            // preferred
 
-    expect(h1.innerText).toMatch(/angular 2 app/i, '<h1> should say something about "Angular 2 App"');
+    expect(h1.innerText).toMatch(/angular app/i, '<h1> should say something about "Angular App"');
   });
 });
